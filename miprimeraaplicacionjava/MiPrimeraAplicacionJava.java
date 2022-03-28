@@ -33,7 +33,12 @@ public class MiPrimeraAplicacionJava {
         
         //Tipo de variables (Mostrar en pantalla las variables)
         System,out.println("Nombre completo: " + nombreCompleto);
-        System,out.println
+            System.out.println("Direccion: "+ direccion);
+        System.out.println("Estadpo Civil: "+ estadoCivil);
+         System.out.println("Edad: "+ edad);
+          System.out.println("Gastos Diarios: "+ gastoDiarios);
+           System.out.println("Genero: "+ genero);
+            System.out.println("Pose Vehiculo: "+ poseeVehiculo);
                 
                 
         
