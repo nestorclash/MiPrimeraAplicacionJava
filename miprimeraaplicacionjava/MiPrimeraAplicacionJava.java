@@ -17,7 +17,7 @@ public class MiPrimeraAplicacionJava {
     public static void main(String[] args) {
         // Declarar variables (ejemplos de algunos tipos de datos)
         String NombreCOmpleto,Direccion,estadocivil;
-        String dir = "San Salvador";
+        String dirreccion = "San Salvador";
         int edad;
         double gastosdiarios;
         char genero;
